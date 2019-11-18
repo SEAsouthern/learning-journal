@@ -19,7 +19,7 @@ Fear of failure is the greatest threat to matching reality to our desires. If we
 ### You Can't Do it Alone and You Won't
 
 _I believe that this is a practical world and that I can count
-only on what I earn. Therefore, I believe in work, hard work.
+only on what I earn. Therefore, I believe in work, hard work._
 
 _I believe in education, which gives me the knowledge to work
 wisely and trains my mind and my hands to work skillfully._

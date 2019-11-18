@@ -1,6 +1,6 @@
 ## Growth Mindset
 
-This page will discuss what a growth mindset is and how to use it to succeed in this course. 
+A Growth Mindset means that you and your potential aren't constricted but have the ability to grow.  
 
 ### No Fate
 

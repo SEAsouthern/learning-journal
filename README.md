@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Growth Mindset
 
-You can use the [editor on GitHub](https://github.com/SEAsouthern/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This page will discuss what a growth mindset is and how to use it to succeed in this course. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### No Fate
 
-### Markdown
+_The future's not set. There's no fate but what we make for ourselves."_
+-John Connor 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+It's cliched but we can do anything we set our mind to. While we might not have the tools now to accomplish a task we have the ability to go and get those tools to create our own future. We don't have to accept current limitations. 
 
-```markdown
-Syntax highlighted code block
+### Nothing to Fear but Fear Itself
 
-# Header 1
-## Header 2
-### Header 3
+_I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain._
+-Maud'Dib
 
-- Bulleted
-- List
+Fear of failure is the greatest threat to matching reality to our desires. If we recognize this fear and push through it we can accomplish anything.
 
-1. Numbered
-2. List
+### You Can't Do it Alone and You Won't
 
-**Bold** and _Italic_ and `Code` text
+_I believe that this is a practical world and that I can count
+only on what I earn. Therefore, I believe in work, hard work.
 
-[Link](url) and ![Image](src)
-```
+_I believe in education, which gives me the knowledge to work
+wisely and trains my mind and my hands to work skillfully._
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+_I believe in honesty and truthfulness, without which I cannot
+win the respect and confidence of my fellow men._
 
-### Jekyll Themes
+_I believe in a sound mind, in a sound body and a spirit that is
+not afraid, and in clean sports that develop these qualities._
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SEAsouthern/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+_I believe in the human touch, which cultivates sympathy with my
+fellow men and mutual helpfulness and brings happiness for all._
+-Auburn Creed
 
-### Support or Contact
+Through education, introspection, work and friendship we build the toolbox necessary for success.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Tips for Embracing a Growth Mindset
+
+1. Recognize that you and only you control your fate
+2. Embrace your fear of failure and let it pass through you, then move on to the work
+3. Build your tool kit. You'll need learn, work, struggle and build support networks
+
+For more super useful information look up me, [Matthew Johnson](https://github.com/SEAsouthern), on Github.
